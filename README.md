@@ -1,4 +1,4 @@
-# 👋  Hi, I'm Dung Bui from :VietNam:
+# 👋  Hi, I'm Dung Bui from Viet Nam
 
 
 Here are some ideas to get you started:
