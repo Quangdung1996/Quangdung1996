@@ -6,13 +6,6 @@ I love solving complex problems, improving workflows, and helping teams grow thr
 
 ---
 
-### 🧠 What I’m Currently Doing  
-- 🔭 Building the **Unified System** for inventory, manufacturing, and order management using **.NET 8**, **Angular**, **Azure**, and **Terraform**.  
-- ⚙️ Implementing CI/CD pipelines with **Azure DevOps** and automating infrastructure provisioning.  
-- 🌱 Learning **microservices patterns**, **SignalR**, and **distributed systems** to improve scalability.  
-
----
-
 ### 🤝 Collaboration & Interests  
 - 👯 Open to collaborating on **.NET**, **Azure**, or **DevOps** projects.  
 - 💬 Ask me about **C#**, **Entity Framework**, **Azure Functions**, **Service Fabric**, or **API design best practices**.  
