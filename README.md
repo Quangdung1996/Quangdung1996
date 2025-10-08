@@ -1,19 +1,36 @@
-# 👋  Hi, I'm Dung Bui from Viet Nam
+# 👋 Hi, I'm **Dung Bui** from Viet Nam  
+### 💻 .NET | Azure | DevOps Engineer  
 
+🚀 A passionate web developer with 6+ years of experience in **.NET**, **Azure Cloud**, and **DevOps**, specializing in building scalable, high-performance systems and cloud-native applications.  
+I love solving complex problems, improving workflows, and helping teams grow through clean architecture and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🧠 What I’m Currently Doing  
+- 🔭 Building the **Unified System** for inventory, manufacturing, and order management using **.NET 8**, **Angular**, **Azure**, and **Terraform**.  
+- ⚙️ Implementing CI/CD pipelines with **Azure DevOps** and automating infrastructure provisioning.  
+- 🌱 Learning **microservices patterns**, **SignalR**, and **distributed systems** to improve scalability.  
 
-  
-👯 I'm working for [Dws](https://www.dws.cloud) company.
+---
+
+### 🤝 Collaboration & Interests  
+- 👯 Open to collaborating on **.NET**, **Azure**, or **DevOps** projects.  
+- 💬 Ask me about **C#**, **Entity Framework**, **Azure Functions**, **Service Fabric**, or **API design best practices**.  
+- 📈 Interested in **system design**, **real-time applications**, and **cloud architecture**.  
+
+---
+
+### 📫 How to Reach Me  
+- 📧 **Email:** quangdung1996.97@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/dungbui1996](https://linkedin.com/in/dungbui1996)  
+- 🌍 **Location:** Ho Chi Minh City, Viet Nam  
+
+---
+
+### ⚡ Fun Fact  
+> “I believe great software isn’t just about code — it’s about people, process, and purpose.”
+
+---
 
 <!---
 Quangdung1996/Quangdung1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
