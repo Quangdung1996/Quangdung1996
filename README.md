@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Dung Bui** from Viet Nam  
-### 💻 .NET | Azure | DevOps Engineer  
+### 💻 .NET | Azure 
 
 🚀 A passionate web developer with 6+ years of experience in **.NET**, **Azure Cloud**, and **DevOps**, specializing in building scalable, high-performance systems and cloud-native applications.  
 I love solving complex problems, improving workflows, and helping teams grow through clean architecture and automation.
